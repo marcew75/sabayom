@@ -1,0 +1,28 @@
+.main-header {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    color: #FF4B4B;
+    text-align: center;
+    padding: 20px;
+}
+
+.stButton>button {
+    background-color: #FF4B4B;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 25px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #666;
+    margin-top: 50px;
+}
+
+.stApp {
+    background-color: #FFE0B2;  /* Celeste suave */
+    /* O para verde agua: background-color: #E8F4F0; */
+}
